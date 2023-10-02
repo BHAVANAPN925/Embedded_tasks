@@ -1,3 +1,4 @@
+//5. Generate a Upper Triangle Matrix of row number with the number of rows and columns as given by the user.
 #include <stdio.h>
 
 int main() {
