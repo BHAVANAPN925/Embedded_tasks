@@ -1,3 +1,4 @@
+//3. Generate a Square Matrix with the number of rows and columns as given by the user and every element in the Matrix should contain the sum of current row and column.
 #include <stdio.h>
 
 int main() {
