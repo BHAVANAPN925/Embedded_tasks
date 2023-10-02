@@ -1,3 +1,4 @@
+//4. Generate a Lower Triangle Matrix of column number with the number of rows and columns as given by the user.
 #include <stdio.h>
 
 int main() {
