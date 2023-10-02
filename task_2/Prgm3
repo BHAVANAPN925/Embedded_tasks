@@ -1,0 +1,18 @@
+//addtion of two array elemnts
+#include <stdio.h>
+#define array_size 5
+int main(){
+int array1[5]={36,24,57,99,88};
+int arrat2[5]={80,33,123,125,92};
+int resultArray[5];
+for(int i=0;i<5;i++){
+resultArray[i]=0;
+}
+for(int i =0;i<5;i++){
+resultArray[i]=array1[i]+array2[i];
+}
+for(int i =0;i<5;i++){
+printf("resultArray[%d]=%d\n",i,resultArray[i]);
+}
+return 0;
+}
